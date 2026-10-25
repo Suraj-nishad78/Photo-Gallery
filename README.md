@@ -23,8 +23,8 @@ A responsive photo gallery built with **React.js and Vite** that fetches images 
 
 ## 🔗 Project Links
 
-- **Live Demo:** [View Hosted Project](https://your-project-link.com)
-- **GitHub Repository:** [View Source Code](https://github.com/YOUR_USERNAME/photo-gallery)
+- **Live Demo:** [View Hosted Project](https://photo-gallery7.netlify.app/)
+- **GitHub Repository:** [View Source Code](https://github.com/Suraj-nishad78/Photo-Gallery)
 
 ## 🚀 Getting Started
 
@@ -32,7 +32,7 @@ Follow these steps to run the project locally.
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/photo-gallery.git
+git clone https://github.com/Suraj-nishad78/Photo-Gallery
 
 # Navigate to the project directory
 cd photo-gallery
@@ -72,14 +72,7 @@ photo-gallery/
 └── README.md
 ```
 
-## 📦 Available Scripts
-
-- `npm run dev` — Starts the development server.
-- `npm run build` — Builds the application for production.
-- `npm run preview` — Previews the production build locally.
-
-## 🙌 Acknowledgements
-
-- [Lorem Picsum](https://picsum.photos/) for providing sample photos.
-- [Font Awesome](https://fontawesome.com/) for icons.
+## 📞 Contact
+- **Author:** Suraj Nishad
+- **Email:** iamsuraj0737@gmail.com
 

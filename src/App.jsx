@@ -189,6 +189,7 @@ function App() {
         )}
       </main>
 
+
       <footer className="gallery-footer">
         Photos powered by{" "}
         <a
